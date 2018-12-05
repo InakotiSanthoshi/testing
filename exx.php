@@ -1,5 +1,5 @@
 <?php 
 
-echo "santhoshi";'<br>'
+echo "santhoshi\n";
 echo "santhu";
 ?>
